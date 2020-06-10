@@ -1,5 +1,4 @@
 # VariedNumbers
-Functionalities for checking over 50+ types of numbers. For eg : Primes, Magic nos , Fascintaing nos, etc 
 Contains property checking for more than 50 types of numbers. Might get a bit messy trying to find a specific function, so  I am providing the line numbers for the same :
 (P.S. - I have been compiling them since my high school years, so some of the display texts might be a bit over the top...)
 
