@@ -1,6 +1,5 @@
 # VariedNumbers
 Contains property checking for more than 50 types of numbers. Might get a bit messy trying to find a specific function, so  I am providing the line numbers for the same :
-(P.S. - I have been compiling them since my high school years, so some of the display texts might be a bit over the top...)
 
 6 - Prime Number | 
 36 - Armstrong Number |  
@@ -58,3 +57,5 @@ Contains property checking for more than 50 types of numbers. Might get a bit me
 1867 - Star Number | 
 1896 - Ugly/Hamming Number | 
 1934 - Goldbach Number | 
+
+(P.S. - I have been compiling them since my high school years, so some of the display texts might be a bit over the top...)
