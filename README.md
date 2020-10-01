@@ -1,9 +1,9 @@
 # Number Types 
 
 Contains property checking for more than 50 types of numbers. Line numbers are provided to the user for the sake of finding the appropriate Functionality.
-| Line Number| Number Type | Status|
+| **Line Number**| **Number Type** | **Status**|
 | --- | --- | --- |
-|Prime Number | 6
+|6 | Prime Number
 |36   | Armstrong Number |  
 |65   | Palindrome Number | 
 |90   |Fibonacci Generator | 
@@ -30,7 +30,7 @@ Contains property checking for more than 50 types of numbers. Line numbers are p
 |733  | Amicable Pair | 
 |771  | Twin Prime Numbers | 
 |803  | Keith Number | 
-|857  | Lychrel Number |[ NOT DONE YET] 🔧| 
+|857  | *Lychrel Number* |**[ NOT DONE YET]** 🔧| 
 |871  | Self-describing Number | 
 |919  | Heavy Number | 
 |957  | Powerful Number | 
@@ -49,10 +49,10 @@ Contains property checking for more than 50 types of numbers. Line numbers are p
 |1578 | Deudeney Number | 
 |1623 | Thabit Number | 
 |1660 | Happy Number | 
-|1686 | Golden Ratio | [ NOT DONE YET] 🔧| 
+|1686 | *Golden Ratio* | **[ NOT DONE YET]** 🔧| 
 |1696 | Pernicious Number | 
 |1743 | Devlali/Colombian Number | 
-|1784 | Sierpinkski Number | [ NOT DONE YET] 🔧| 
+|1784 | *Sierpinkski Number* | **[ NOT DONE YET]** 🔧| 
 |1794 | Markov Number | 
 |1839 | Narcissistic Number | 
 |1867 | Star Number | 
