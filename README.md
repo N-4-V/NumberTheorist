@@ -1,6 +1,6 @@
-# Number Types 
+# Number Theories
 
-Contains property checking for more than 50 types of numbers in **Java**Line numbers are provided to the user for the sake of finding the appropriate functionality.
+Contains property checking for more than 50 types of numbers in **Java** Line numbers are provided to the user for the sake of finding the appropriate functionality.
 | **Line Number**| **Number Type** | **Status**|
 | --- | --- | --- |
 |6 | Prime Number
