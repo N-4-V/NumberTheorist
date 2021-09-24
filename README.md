@@ -59,4 +59,4 @@ Contains property checking for more than 50 types of numbers in **Java**. Line n
 |1896 | Ugly/Hamming Number | 
 |1934 | Goldbach Number | 
 
-**P.S. :**  I have been compiling them since my high school years, so some of the display texts might be a bit over the top...)
+**P.S. :**  I have been compiling them since my high school years, so some of the display texts might be a bit over the top...
